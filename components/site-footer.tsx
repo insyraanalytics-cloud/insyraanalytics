@@ -1,7 +1,7 @@
 import Link from "next/link"
 import { Mail, MapPin } from "lucide-react"
 import { Logo } from "@/components/logo"
-import { LinkedInIcon, XIcon, FacebookIcon } from "@/components/brand-icons"
+import { LinkedInIcon } from "@/components/brand-icons"
 
 const quickLinks = [
   { label: "Home", href: "#home" },
@@ -52,7 +52,7 @@ export function SiteFooter() {
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="size-4 shrink-0" aria-hidden="true" />
-                80 LIG, 149 Mahalaxmi Nagar, Ujjain, Madhya Pradesh, India
+                80 LIG, 149 Mahashakti Nagar, Ujjain, Madhya Pradesh, India
               </li>
             </ul>
             <div className="mt-5 flex items-center gap-3">
