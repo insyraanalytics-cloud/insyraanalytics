@@ -54,6 +54,12 @@ export function SiteFooter() {
                 <MapPin className="size-4 shrink-0" aria-hidden="true" />
                 80 LIG, 149 Mahashakti Nagar, Ujjain, Madhya Pradesh, India
               </li>
+              <a 
+                href="+918989520019"
+                className="flex item-center gap-2 text-blue-600 hover:underline"
+                >
+              <span>+918989520019</span>
+              </a>
             </ul>
             <div className="mt-5 flex items-center gap-3">
               <a
