@@ -60,6 +60,12 @@ export function SiteFooter() {
                 >
               <span>+918989520019</span>
               </a>
+                <a 
+                href="+919406577299"
+                className="flex item-center gap-2 text-blue-600 hover:underline"
+                >
+              <span>+919406577299</span>
+              </a>
             </ul>
             <div className="mt-5 flex items-center gap-3">
               <a
