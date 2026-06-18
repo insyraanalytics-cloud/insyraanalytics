@@ -8,8 +8,8 @@ const reasons = [
   },
   {
     icon: UserRound,
-    title: "Tailored Solutions",
-    description: "Every study is customized to your industry, goals, and challenges.",
+    title: "Primary & Secondary Research",
+    description: "Primary insights and secondary research for smarter business decisions.",
   },
   {
     icon: Clock,
