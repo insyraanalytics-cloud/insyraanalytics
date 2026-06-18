@@ -8,7 +8,7 @@ export function HeroSection() {
       <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 py-16 sm:px-6 md:py-24 lg:grid-cols-2">
         <div>
           <p className="text-sm font-semibold text-primary">
-            Market Research. Trusted Insights. Smarter Decisions.
+            INSIGHTS THAT INSPIRE ACTION
           </p>
           <h1 className="mt-4 text-balance text-4xl font-bold leading-tight tracking-tight text-foreground sm:text-5xl lg:text-6xl">
             We turn data into actionable insights
