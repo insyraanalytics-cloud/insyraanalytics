@@ -69,7 +69,7 @@ export function SiteFooter() {
             </ul>
             <div className="mt-5 flex items-center gap-3">
               <a
-                href="#"
+                href="https://www.linkedin.com/company/insyraanalytics/"
                 aria-label="LinkedIn"
                 className="flex size-9 items-center justify-center rounded-full border border-navy-foreground/20 transition-colors hover:bg-navy-foreground/10"
               >
