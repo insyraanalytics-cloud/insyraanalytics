@@ -63,20 +63,6 @@ export function SiteFooter() {
               >
                 <LinkedInIcon className="size-4" />
               </a>
-              <a
-                href="#"
-                aria-label="X"
-                className="flex size-9 items-center justify-center rounded-full border border-navy-foreground/20 transition-colors hover:bg-navy-foreground/10"
-              >
-                <XIcon className="size-4" />
-              </a>
-              <a
-                href="#"
-                aria-label="Facebook"
-                className="flex size-9 items-center justify-center rounded-full border border-navy-foreground/20 transition-colors hover:bg-navy-foreground/10"
-              >
-                <FacebookIcon className="size-4" />
-              </a>
             </div>
           </div>
         </div>
